@@ -15,7 +15,7 @@ An evolutionary algorithm to generate dynamic photomosaics, iteratively selectin
 [View Project](https://github.com/JerichoM2006/Evolutionary-Photomosaic)
 
 ### Verlet-Collision
-`C++` . `SFML`
+`C++` . `SFML`  
 A physic based system that reconstructs an input image through a particle simulation where ~2,000 particles form a visual approximation of the image  
 [View Project](https://github.com/JerichoM2006/Verlet-Collision)
 
