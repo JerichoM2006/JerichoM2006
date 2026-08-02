@@ -29,7 +29,7 @@ A real-time desktop audio transcription and multilingual subtitle application, a
 - **Tools:** Git, SQLite, PostgreSQL, CMake, pip, poetry, npm
 
 ## Links
-- [Itch.io Profile](https://github.com/JerichoM2006/CS-Project)  
+- [Itch.io Profile](https://human-inc.itch.io/)  
 - Portfolio Website (Coming soon)
 
 ## Contact me
