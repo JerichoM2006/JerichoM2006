@@ -30,7 +30,7 @@ A real-time desktop audio transcription and multilingual subtitle application, a
 
 ## Links
 - [Itch.io Profile](https://human-inc.itch.io/)  
-- Portfolio Website (Coming soon)
+- [Portfolio Website](https://jerichom2006.github.io/JerichoM-Portfolio/)
 
 ## Contact me
 Email: mendozajerichojohn@outlook.com / jjm238@bath.ac.uk  
